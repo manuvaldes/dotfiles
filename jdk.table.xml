@@ -1,0 +1,303 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 (sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_cpd/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="sftp://xe64509@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_cpd/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-1353783054" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/1198257279" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-721572228" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/1918342742" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/clarity_fs_utils-1.0.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/961357281" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/setuptools-23.0.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-835594078" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/192197823" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/1197425517" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-2104338231" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-1102554819" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/655659806" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="c1653abc-a973-4fab-9df6-c732a89f380e" WEB_SERVER_CONFIG_NAME="lpcfm424" WEB_SERVER_CREDENTIALS_ID="sftp://xe64509@lpcmf424.igrupobbva:22" INTERPRETER_PATH="/DYA/da_tech/envs/clarity_cpd/bin/python" HELPERS_PATH="/us/xe64509/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-1353783054" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/1198257279" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-721572228" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-111013307" remote-root="/us/xe64509/.local/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/1918342742" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/clarity_fs_utils-1.0.0-py2.7.egg" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/site-packages/clarity_fs_utils-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/961357281" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/site-packages/clarity-3.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/setuptools-23.0.0-py2.7.egg" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/site-packages/setuptools-23.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-835594078" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/site-packages/clarity-3.0.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/192197823" remote-root="/us/e045989/da_crm_intelligence" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/1197425517" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/site-packages/dill-0.2.7.1-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-2104338231" remote-root="/DYA/da_tech/envs/clarity_cpd/lib/python2.7/site-packages/da_crm_intelligence-0+untagged.160.g48db8f3.dirty-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/655659806/-1102554819" remote-root="/us/e045989/dill-dill-0.2.7.1" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (PoeIndexer)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="$USER_HOME$/PycharmProjects/PoeIndexer/venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" type="simple" />
+            <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-2096595932" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/PoeIndexer" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (keller)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/miniconda3/envs/keller/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/keller/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/keller/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/keller/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1800477872" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/da_keller_python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 2.7.11 (sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_ci/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_ci/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-299048905" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-681563068" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-713232489" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-702746405" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/clarity_fs_utils-1.0.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-2042855066" type="simple" />
+            <root url="jar://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/setuptools-23.0.0-py2.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/455160871" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/556938649" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="c1653abc-a973-4fab-9df6-c732a89f380e" WEB_SERVER_CONFIG_NAME="lpcfm424" WEB_SERVER_CREDENTIALS_ID="sftp://e052180@lpcmf424.igrupobbva:22" INTERPRETER_PATH="/DYA/da_tech/envs/clarity_ci/bin/python" HELPERS_PATH="/us/e052180/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-299048905" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-681563068" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-713232489" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-702746405" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/clarity_fs_utils-1.0.0-py2.7.egg" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7/site-packages/clarity_fs_utils-1.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/-2042855066" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7/site-packages/clarity-3.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/setuptools-23.0.0-py2.7.egg" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7/site-packages/setuptools-23.0.0-py2.7.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/556938649/455160871" remote-root="/DYA/da_tech/envs/clarity_ci/lib/python2.7/site-packages/clarity-3.0.1-py2.7.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (menestudy)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="$USER_HOME$/miniconda3/envs/menestudy/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/menestudy/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/menestudy/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/menestudy/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/35065813" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/menestudy" />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.2 crmi (sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/crmi/bin/python)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.2" />
+      <homePath value="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/crmi/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/1351442513" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/1709587317" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/2066025251" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/560408700" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-1454418594" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/976909450" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-2007282666" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-1412785760" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/1955359180" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-1356667713" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WEB_SERVER_CONFIG_ID="c1653abc-a973-4fab-9df6-c732a89f380e" WEB_SERVER_CONFIG_NAME="lpcfm424" WEB_SERVER_CREDENTIALS_ID="sftp://e052180@lpcmf424.igrupobbva:22" INTERPRETER_PATH="/DYA/da_tech/envs/crmi/bin/python" HELPERS_PATH="/us/e052180/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="">
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-1456431505" />
+        <PATHS_REMOVED_BY_USER_ROOT PATH_REMOVED_BY_USER="file://$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/2095263648" />
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/1351442513" remote-root="/DYA/da_tech/envs/crmi/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/1709587317" remote-root="/DYA/da_tech/envs/crmi/lib/python3.6/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/2066025251" remote-root="/DYA/da_tech/envs/crmi/lib/python3.6/site-packages/crmi-0+unknown-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/2095263648" remote-root="/opt/cloudera/parcels/SPARK2/lib/spark2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/560408700" remote-root="/opt/cloudera/parcels/SPARK2/lib/spark2/python" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-1454418594" remote-root="/opt/cloudera/parcels/SPARK2/lib/spark2/python/lib/py4j-0.10.4-src.zip" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-1456431505" remote-root="/opt/cloudera/parcels/SPARK2/lib/spark2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/976909450" remote-root="/opt/cloudera/parcels/SPARK2/lib/spark2/python/lib/pyspark.zip" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-2007282666" remote-root="/DYA/da_tech/envs/crmi/lib/python3.6/site-packages/bisea-0.3.2-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/-1412785760" remote-root="/DYA/da_tech/envs/crmi/lib/python3.6/site-packages/keller-0.2.3+0.g8e20424.dirty-py3.6.egg" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.3/remote_sources/-1356667713/1955359180" remote-root="/DYA/da_tech/envs/crmi/lib/python3.6/site-packages/crmi-0+untagged.206.g8f41cad-py3.6.egg" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (dalearn)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.4" />
+      <homePath value="$USER_HOME$/miniconda3/envs/dalearn/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/dalearn/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/dalearn/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/dalearn/lib/python3.6/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/482793128" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/Repos/da_analytics_python" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (p5)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.8" />
+      <homePath value="$USER_HOME$/miniconda3/envs/p5/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/miniconda3/envs/p5/lib/python3.6" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/p5/lib/python3.6/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/p5/lib/python3.6/site-packages" type="simple" />
+            <root url="jar://$USER_HOME$/miniconda3/envs/p5/lib/python3.6/site-packages/p5-0.5.0-py3.6.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/miniconda3/envs/p5/lib/python3.6/site-packages/Pillow-5.4.1-py3.6-macosx-10.7-x86_64.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-714268846" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PersonalDev/p5sketches" />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c1653abc-a973-4fab-9df6-c732a89f380e" name="lpcfm424" url="http://lpcmf424.igrupobbva">
+        <fileTransfer host="lpcmf424.igrupobbva" port="22" rootFolder="/us/e052180" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

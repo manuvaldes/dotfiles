@@ -1,0 +1,35 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="$USER_HOME$/miniconda3/envs/dalearn/bin/python" value="true" />
+        <entry key="$USER_HOME$/miniconda3/envs/keller/bin/python" value="true" />
+        <entry key="$USER_HOME$/miniconda3/envs/menestudy/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/p5/bin/python" value="false" />
+        <entry key="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_ci/bin/python" value="true" />
+        <entry key="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/crmi/bin/python" value="true" />
+        <entry key="sftp://xe64509@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_cpd/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="$USER_HOME$/miniconda3/envs/dalearn/bin/python" value="true" />
+        <entry key="$USER_HOME$/miniconda3/envs/keller/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/p5/bin/python" value="false" />
+        <entry key="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_ci/bin/python" value="true" />
+        <entry key="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/crmi/bin/python" value="true" />
+        <entry key="sftp://xe64509@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_cpd/bin/python" value="true" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="$USER_HOME$/miniconda3/envs/dalearn/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/keller/bin/python" value="false" />
+        <entry key="$USER_HOME$/miniconda3/envs/p5/bin/python" value="false" />
+        <entry key="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_ci/bin/python" value="false" />
+        <entry key="sftp://e052180@lpcmf424.igrupobbva:22/DYA/da_tech/envs/crmi/bin/python" value="false" />
+        <entry key="sftp://xe64509@lpcmf424.igrupobbva:22/DYA/da_tech/envs/clarity_cpd/bin/python" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
